@@ -102,16 +102,6 @@ AWS EC2 • Lambda • S3 • Elastic Beanstalk • CI/CD
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sheharyarali11&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 Professional Highlights
 
 * 💼 7+ Years of Software Engineering Experience
