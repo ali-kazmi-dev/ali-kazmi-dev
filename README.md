@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sheharyar Ali
+# Hi there 👋 I'm Ali Kazmi
 
 <div align="center">
 
