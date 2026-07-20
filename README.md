@@ -21,7 +21,7 @@ Building scalable web applications, cloud-native systems, and AI-powered product
 
 # 🚀 About Me
 
-I'm a **Senior Full-Stack Software Engineer** with **7+ years of professional experience** designing, building, and deploying enterprise-grade software across web, cloud, and AI domains.
+I'm a **Senior Full-Stack Software Engineer** with **8+ years of professional experience** designing, building, and deploying enterprise-grade software across web, cloud, and AI domains.
 
 My expertise spans modern frontend frameworks, scalable backend architectures, cloud infrastructure, and the latest AI technologies including **LLMs, AI Agents, RAG pipelines, and workflow automation**.
 
@@ -136,9 +136,9 @@ Graduated: **2018**
 
 # 📫 Let's Connect
 
-📧 **[sheharyardev.ali@gmail.com](mailto:sheharyardev.ali@gmail.com)**
+📧 **[alikazmi.dev@gmail.com](mailto:alikazmi.dev@gmail.com)**
 
-📍 **Hewlett, New York, USA**
+📍 **Katy, TX, USA**
 
 ---
 
