@@ -130,7 +130,7 @@ AWS EC2 • Lambda • S3 • Elastic Beanstalk • CI/CD
 
 **Bachelor of Science in Computer Science**
 
-Graduated: **2018**
+Graduated: **2019**
 
 ---
 
