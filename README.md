@@ -6,11 +6,11 @@
 
 Building scalable web applications, cloud-native systems, and AI-powered products.
 
-📍 Hewlett, New York, USA
+📍 Katy, TX, USA
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:sheharyardev.ali@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:alikazmi.tech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://sheharyarali11.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://ali-kazmi-tech.github.io/)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=1000&center=true&vCenter=true&width=780&lines=Senior+Full-Stack+Software+Engineer;AI+Engineer+%7C+LangChain+%7C+LangGraph+%7C+CrewAI;React+%7C+Angular+%7C+Vue+%7C+Node.js;Python+%7C+FastAPI+%7C+.NET;Building+Scalable+AI-Powered+Applications" />
@@ -136,7 +136,7 @@ Graduated: **2018**
 
 # 📫 Let's Connect
 
-📧 **[alikazmi.dev@gmail.com](mailto:alikazmi.dev@gmail.com)**
+📧 **[alikazmi.tech@gmail.com](mailto:alikazmi.tech@gmail.com)**
 
 📍 **Katy, TX, USA**
 
